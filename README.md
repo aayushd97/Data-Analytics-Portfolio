@@ -5,7 +5,7 @@ Hello all, I'm Aayush and I am a recent graduate from Duke University with a Bac
 Since graduating this year, I have been working on acquiring certifications and learning essential languages such as SQL and Python. The two certifications I have completed are the DataCamp Data Analyst Associate Certification, as well as the IBM Data Analyst Professional Certificate. I am looking to create and build my portfolio now, while also being open to gaining some experience through work opporunities in the next year. 
 ## PORTFOLIO PROJECTS 
 
-###IBM Data Analytics Professional Certificate Capstone Project
+### IBM Data Analytics Professional Certificate Capstone Project
 
 
 
