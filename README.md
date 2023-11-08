@@ -9,6 +9,8 @@ Since graduating this year, I have been working on acquiring certifications and 
 
 # CONTACT INFORMATION
 email: aayushd97@gmail.com
+
 alt. email: aayush.damani@duke.edu
+
 Linkedin: https://www.linkedin.com/in/aayush-damani/
 
