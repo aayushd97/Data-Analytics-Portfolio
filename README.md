@@ -6,7 +6,9 @@ Since graduating this year, I have been working on acquiring certifications and 
 
 ## PORTFOLIO PROJECTS 
 
-### IBM Data Analyst Specialization Certificate Capstone Project
+### IBM Data Analyst Specialization Certificate 
+
+#### Capstone Project
 
 [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
    [Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
@@ -18,7 +20,7 @@ Description: As part of the final capstone project of the course, I did an analy
 
 Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analytics, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards
 
-### IBM Data Analyst Specialization Certificate Data Visualization Project 
+#### Data Visualization Project 
 
 [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
 [Matplotlib, Seaborn and Folium Visualizations](IBM-Data-Analyst-Specialization-Data-Visualization-Project/MatPlotLib-Seaborn-Folium-Visualizations.ipynb)
