@@ -8,6 +8,12 @@ Since graduating this year, I have been working on acquiring certifications and 
 
 ### IBM Data Analyst Specialization Certificate Capstone Project
 
+[Dashboard](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/17175b19-0492-4a2b-b770-9a73bda92b79/view/5e7fdf7d17a231cc67e7e6e4079f2e017462715eb1bb870bd3d37b4959347397a96012c7c87e1e09dc170660a5ef465eca)
+
+[Dataset 1: 
+
+Description: As part of the final capstone project of the course, I did an analysis on 
+
 
 
 ## CERTIFICATIONS
