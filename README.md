@@ -22,7 +22,7 @@ Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analyt
 
 [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
 [Matplotlib, Seaborn and Folium Visualizations](IBM-Data-Analyst-Specialization-Data-Visualization-Project/MatPlotLib-Seaborn-Folium-Visualizations.ipynb)
-[Dashboard Code](IBM-Data-Analyst-Specialization-Data-Visualization-Project/Dashboard-Code.py)
+[Dashboard Code Using Plotly, Dash](IBM-Data-Analyst-Specialization-Data-Visualization-Project/Dashboard-Code.py)
 [Dashboard](https://aayushd97-8051.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
 
 Description: In this assignment I was tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods. This project involved analyzing the dataset through visualizations using MatPlotLib, Seaborn, and Folium. It is also involved creating a dashboard using Dash. 
