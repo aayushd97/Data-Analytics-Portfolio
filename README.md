@@ -8,16 +8,15 @@ Since graduating this year, I have been working on acquiring certifications and 
 
 ### IBM Data Analyst Specialization Certificate Capstone Project
 
+[Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
+[Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
+[Exploratory Data Analysis](IBM-Data-Analyst-Specialization-Capstone-Project/Exploratory-Data-Analysis.ipynb)
+[Data Visualizations](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Visualizations.ipynb)
 [Dashboard](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/17175b19-0492-4a2b-b770-9a73bda92b79/view/5e7fdf7d17a231cc67e7e6e4079f2e017462715eb1bb870bd3d37b4959347397a96012c7c87e1e09dc170660a5ef465eca)
 
-[Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
+Description: As part of the final capstone project of the course, I did an analysis on the M1 Survey Data, which collected information from people in the IT sector. The information varied from demographics, to knowledge of languages and salaries. The first step of the project was cleaning the data by removing duplicates, missing values, and normalizing data. The second step was to do Exploratory Data Analysis on the data, followed by making data visualizations of important variables. All these steps were done on Jupyter notebooks. The last step involved creating a dashboard using IBM Cognos Analytics. All links are provided above. 
 
-[Exploratory Data Analysis](IBM-Data-Analyst-Specialization-Capstone-Project/Exploratory-Data-Analysis.ipynb)
-
-[Data Visualizations](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Visualizations.ipynb)
-
-Description: As part of the final capstone project of the course, I did an analysis on 
-
+Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analytics, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards
 
 
 ## CERTIFICATIONS
