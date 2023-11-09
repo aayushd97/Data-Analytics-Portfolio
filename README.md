@@ -25,7 +25,7 @@ Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analyt
 [Dashboard Code Using Plotly, Dash](IBM-Data-Analyst-Specialization-Data-Visualization-Project/Dashboard-Code.py)
 [Dashboard](https://aayushd97-8051.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
 
-Description: In this assignment I was tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods. This project involved analyzing the dataset through visualizations using MatPlotLib, Seaborn, and Folium. It is also involved creating a dashboard using Dash. 
+Description: In this assignment I was tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods. This project involved analyzing the dataset through visualizations using MatPlotLib, Seaborn, and Folium. It is also involved creating a dashboard using Dash and Plotly - however, this part of the project was slightly more guided than the others. 
 
 Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
 
