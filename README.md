@@ -35,8 +35,9 @@ Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
 
 #### Electronics Store Sales Project (Pandas, Matplotlib)
 
-[Dataset] (https://github.com/aayushd97/Pandas-Project/tree/master/SalesAnalysis/Sales_Data)
-[Data Analysis and Cleaning]
+[Dataset](https://github.com/aayushd97/Pandas-Project/tree/master/SalesAnalysis/Sales_Data)
+[Data Analysis and Cleaning](Personal-Projects/Python-Pandas-Project.ipynb)
+
 
 ## CERTIFICATIONS
 
