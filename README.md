@@ -31,6 +31,12 @@ Description: In this assignment I was tasked with creating plots which answer qu
 
 Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
 
+### PERSONAL PROJECTS 
+
+#### Electronics Store Sales Project (Pandas, Matplotlib)
+
+[Dataset] (https://github.com/aayushd97/Pandas-Project/tree/master/SalesAnalysis/Sales_Data)
+[Data Analysis and Cleaning]
 
 ## CERTIFICATIONS
 
