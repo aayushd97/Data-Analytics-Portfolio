@@ -45,7 +45,7 @@ Description: In this project I explored and concatenated 12 different monthly da
 Skills: Pandas, Matplotlib, Data Visualization
 
 #### IPL Match Data (2008-2020) Project
-[Dataset]
+[Dataset](Projects-Datasets/IPL-Datasets)
 [Exploratory Data Analysis using SQL](Personal-Projects/IPL-EDA-Script.sql)
 
 Description: In this project I explored IPL match data from 2008-2020, answering different problem questions to understand who the top performers in IPL have been over the years. I performed data cleaning by changing data types and removing redundant. I also performed data exploratory data analysis using skills such as subqueries, running sums, partitioning and more in order to answer the unique problem statements. 
