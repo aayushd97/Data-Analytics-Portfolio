@@ -56,6 +56,7 @@ Skills: SQLServer, Subqueries, EDA
 [Dataset](https://github.com/aayushd97/Projects-Datasets/blob/main/HR_Analytics.csv)
 [Dashboard PBIX](Personal-Projects/HR-Analytics-Dashboard/HR-Analytics-Dashboard.pbix) 
 [Dashboard PDF]
+[Online Dashboard on Power BI Service](https://prodduke-my.sharepoint.com/personal/ard44_duke_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fard44%5Fduke%5Fedu%2FDocuments%2FHR%2DAnalytics%2DDashboard%2Epbix&parent=%2Fpersonal%2Fard44%5Fduke%5Fedu%2FDocuments)
 
 Description: This project was a beginner-level project in Power BI, and the goal of the product was to analyze the type off attrition from the HR Database Dataset. Power Query was used in order to clean of the dataset (removing null values, spelling errors, handling duplicates). The correlation of attrition with several other variables, such as age, distance from home, salary, years spent at company etc. was measured through Power BI tools. 
 
