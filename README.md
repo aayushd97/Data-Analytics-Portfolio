@@ -52,6 +52,14 @@ Description: In this project I explored IPL match data from 2008-2020, answering
 
 Skills: SQLServer, Subqueries, EDA
 
+#### HR Analytics Power BI Dashboard 
+[Dataset](https://github.com/aayushd97/Projects-Datasets/blob/main/HR_Analytics.csv)
+[Dashboard] 
+[Dashboard PDF]
+
+Description: This project was a beginner-level project in Power BI, and the goal of the product was to analyze the type off attrition from the HR Database Dataset. Power Query was used in order to clean of the dataset (removing null values, spelling errors, handling duplicates). The correlation of attrition with several other variables, such as age, distance from home, salary, years spent at company etc. was measured through Power BI tools. 
+
+Skills: Power BI, Power Query, Dashboard Creation 
 
 ## CERTIFICATIONS
 
