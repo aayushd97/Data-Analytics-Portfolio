@@ -1,4 +1,19 @@
 # Aayush Damani - Data Analytics Portfolio
+
+## Table of Contents
+- [ABOUT](#about)
+- [PORTFOLIO PROJECTS](#portfolio-projects)
+  - [PERSONAL PROJECTS](#personal-projects)
+    - [Electronics Store Sales Project](#electronics-store-sales-project) (Skills: Pandas, Matplotlib, Data Visualization)
+    - [IPL Match Data (2008-2020) Project](#ipl-match-data-2008-2020-project) (Skills: SQLServer, Subqueries, EDA)
+    - [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard) (Skills: Power BI, Power Query, Dashboard Creation 
+    - [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard) (Skills: Dashboard Creation, Looker Studio)
+  - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
+    - [Capstone Project](#capstone-project) (Skills: Pandas, NumPy EDA, IBM Cloud, Dashboard Creation)
+    - [Data Visualization Project](#data-visualization-project) (Skills: Seaborn, Folium, Dash, Dashboard Creation)
+- [CERTIFICATIONS](#certifications)
+- [CONTACT INFORMATION](#contact-information)
+
 ## ABOUT
 Hello all, I'm Aayush and I am a recent graduate from Duke University with a Bachelors of Science in Economics, and a minor in Mathematics in the Class of 2023. I'm 27 years old, and have lived in Mumbai apart from my college years. I had to take a medical leave of absence for a few years due to some undiagnosed pain. I have always been interested in data and statistics, and the biggest reason for this is my relationship with football - it's not just a sport, it's a religion to me. Therefore, I had to delve deeper into the statistics and data if my team isn't doing well. 
 
