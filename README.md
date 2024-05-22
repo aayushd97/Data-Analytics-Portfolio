@@ -4,7 +4,7 @@
 - [ABOUT](##about)
 - [PORTFOLIO PROJECTS](#portfolio-projects)
   - [PERSONAL PROJECTS](#personal-projects)
-    1. [Electronics Store Sales Project](####electronics-store-sales-project)
+    1. [Electronics Store Sales Project](#electronics-store-sales-project)
       (Skills: Pandas, Matplotlib, Data Visualization)
     2. [IPL Match Data (2008-2020) Project](#ipl-match-data-2008-2020-project)
       (Skills: SQLServer, Subqueries, EDA)
