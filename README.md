@@ -1,10 +1,10 @@
 # Aayush Damani - Data Analytics Portfolio
 
 ## Table of Contents
-- [ABOUT](#about)
+- [ABOUT](##about)
 - [PORTFOLIO PROJECTS](#portfolio-projects)
   - [PERSONAL PROJECTS](#personal-projects)
-    - [Electronics Store Sales Project](#electronics-store-sales-project) (Skills: Pandas, Matplotlib, Data Visualization)
+    - [Electronics Store Sales Project](####electronics-store-sales-project) (Skills: Pandas, Matplotlib, Data Visualization)
     - [IPL Match Data (2008-2020) Project](#ipl-match-data-2008-2020-project) (Skills: SQLServer, Subqueries, EDA)
     - [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard) (Skills: Power BI, Power Query, Dashboard Creation 
     - [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard) (Skills: Dashboard Creation, Looker Studio)
