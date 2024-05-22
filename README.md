@@ -1,7 +1,7 @@
 # Aayush Damani - Data Analytics Portfolio
 
 ## Table of Contents
-- [ABOUT](##about)
+- [ABOUT](#about)
 - [PORTFOLIO PROJECTS](#portfolio-projects)
   - [PERSONAL PROJECTS](#personal-projects)
     1. [Electronics Store Sales Project](#electronics-store-sales-project)
