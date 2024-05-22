@@ -4,13 +4,19 @@
 - [ABOUT](##about)
 - [PORTFOLIO PROJECTS](#portfolio-projects)
   - [PERSONAL PROJECTS](#personal-projects)
-    - [Electronics Store Sales Project](####electronics-store-sales-project) (Skills: Pandas, Matplotlib, Data Visualization)
-    - [IPL Match Data (2008-2020) Project](#ipl-match-data-2008-2020-project) (Skills: SQLServer, Subqueries, EDA)
-    - [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard) (Skills: Power BI, Power Query, Dashboard Creation 
-    - [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard) (Skills: Dashboard Creation, Looker Studio)
+    - [Electronics Store Sales Project](####electronics-store-sales-project)
+      (Skills: Pandas, Matplotlib, Data Visualization)
+    - [IPL Match Data (2008-2020) Project](#ipl-match-data-2008-2020-project)
+      (Skills: SQLServer, Subqueries, EDA)
+    - [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard)
+      (Skills: Power BI, Power Query, Dashboard Creation)
+    - [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
+      (Skills: Dashboard Creation, Looker Studio)
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
-    - [Capstone Project](#capstone-project) (Skills: Pandas, NumPy EDA, IBM Cloud, Dashboard Creation)
-    - [Data Visualization Project](#data-visualization-project) (Skills: Seaborn, Folium, Dash, Dashboard Creation)
+    - [Capstone Project](#capstone-project)
+      (Skills: Pandas, NumPy EDA, IBM Cloud, Dashboard Creation)
+    - [Data Visualization Project](#data-visualization-project)
+      (Skills: Seaborn, Folium, Dash, Dashboard Creation)
 - [CERTIFICATIONS](#certifications)
 - [CONTACT INFORMATION](#contact-information)
 
@@ -25,7 +31,7 @@ I am currently working in a Management Internship at Jamshri Realty Limited, whi
 
 ### PERSONAL PROJECTS 
 
-#### 1. Electronics Store Sales Project 
+#### Electronics Store Sales Project 
 
 [Dataset](https://github.com/aayushd97/Pandas-Project/tree/master/SalesAnalysis/Sales_Data)
 [Data Cleaning & Analysis](Personal-Projects/Electronics-Sales-Analysis)
@@ -34,7 +40,7 @@ Description: In this project I explored and concatenated 12 different monthly da
 
 Skills: Pandas, Matplotlib, Data Visualization
 
-#### 2. IPL Match Data (2008-2020) Project
+#### IPL Match Data (2008-2020) Project
 [Dataset](https://github.com/aayushd97/Projects-Datasets/tree/main/IPL-Datasets)
 [Exploratory Data Analysis using SQL](Personal-Projects/IPL-EDA-Script.sql)
 
@@ -42,7 +48,7 @@ Description: In this project I explored IPL match data from 2008-2020, answering
 
 Skills: SQLServer, Subqueries, EDA
 
-#### 3. HR Analytics Power BI Dashboard 
+#### HR Analytics Power BI Dashboard 
 [Dataset](https://github.com/aayushd97/Projects-Datasets/blob/main/HR_Analytics.csv)
 [Dashboard PBIX](Personal-Projects/HR-Analytics-Dashboard/HR-Analytics-Dashboard.pbix) 
 [Dashboard Image](https://imgur.com/SUbDzBu)
@@ -52,7 +58,7 @@ Description: This project was a beginner-level project in Power BI, and the goal
 
 Skills: Power BI, Power Query, Dashboard Creation 
 
-#### 4. Manchester United Player Statistics Looker Studio Dashboard 
+#### Manchester United Player Statistics Looker Studio Dashboard 
 [Dashboard](https://lookerstudio.google.com/reporting/93c79dc7-6ef1-4b94-9594-4c17428bc246)
 
 Description: This project is something I have been wanting to create for a long time - a dashboard where the user can select a season, select a player, and the corresponding statistics and graphs appear on the page. While this is an initial version of my project, I hope to keep improving upon this and adding data from older seasons too. This dashboard was made using Looker Studio, and the data was sourced manually from fbref.com. Since the data was entered manually, data cleaning was not required. 
@@ -61,7 +67,7 @@ Skills: Dashboard Creation, Looker Studio
 
 ### IBM Data Analyst Specialization Certificate Projects
 
-#### 1. Capstone Project
+#### Capstone Project
 
 [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
    [Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
@@ -73,7 +79,7 @@ Description: As part of the final capstone project of the course, I did an analy
 
 Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analytics, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards
 
-#### 2. Data Visualization Project 
+#### Data Visualization Project 
 
 [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
 [Matplotlib, Seaborn and Folium Visualizations](IBM-Data-Analyst-Specialization-Data-Visualization-Project/MatPlotLib-Seaborn-Folium-Visualizations.ipynb)
