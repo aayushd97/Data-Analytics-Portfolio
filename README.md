@@ -8,31 +8,6 @@ I am currently working in a Management Internship at Jamshri Realty Limited, whi
 
 ## PORTFOLIO PROJECTS 
 
-### IBM Data Analyst Specialization Certificate 
-
-#### Capstone Project
-
-[Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
-   [Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
-   [Exploratory Data Analysis](IBM-Data-Analyst-Specialization-Capstone-Project/Exploratory-Data-Analysis.ipynb)
-   [Data Visualizations](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Visualizations.ipynb)
-   [Dashboard](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/17175b19-0492-4a2b-b770-9a73bda92b79/view/5e7fdf7d17a231cc67e7e6e4079f2e017462715eb1bb870bd3d37b4959347397a96012c7c87e1e09dc170660a5ef465eca)
-
-Description: As part of the final capstone project of the course, I did an analysis on the M1 Survey Data, which collected information from people in the IT sector. The information varied from demographics, to knowledge of languages and salaries. The first step of the project was cleaning the data by removing duplicates, missing values, and normalizing data. The second step was to do Exploratory Data Analysis on the data, followed by making data visualizations of important variables. All these steps were done on Jupyter notebooks. The last step involved creating a dashboard using IBM Cognos Analytics. All links are provided above. 
-
-Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analytics, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards
-
-#### Data Visualization Project 
-
-[Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
-[Matplotlib, Seaborn and Folium Visualizations](IBM-Data-Analyst-Specialization-Data-Visualization-Project/MatPlotLib-Seaborn-Folium-Visualizations.ipynb)
-[Dashboard Code Using Plotly, Dash](IBM-Data-Analyst-Specialization-Data-Visualization-Project/Dashboard-Code.py)
-[Dashboard](https://aayushd97-8051.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
-
-Description: In this assignment I was tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods. This project involved analyzing the dataset through visualizations using MatPlotLib, Seaborn, and Folium. It is also involved creating a dashboard using Dash and Plotly - however, this part of the project was slightly more guided than the others. 
-
-Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
-
 ### PERSONAL PROJECTS 
 
 #### Electronics Store Sales Project 
@@ -61,6 +36,31 @@ Skills: SQLServer, Subqueries, EDA
 Description: This project was a beginner-level project in Power BI, and the goal of the product was to analyze the type off attrition from the HR Database Dataset. Power Query was used in order to clean of the dataset (removing null values, spelling errors, handling duplicates). The correlation of attrition with several other variables, such as age, distance from home, salary, years spent at company etc. was measured through Power BI tools. 
 
 Skills: Power BI, Power Query, Dashboard Creation 
+
+### IBM Data Analyst Specialization Certificate Projects
+
+#### Capstone Project
+
+[Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
+   [Data Wrangling](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Wrangling.ipynb)
+   [Exploratory Data Analysis](IBM-Data-Analyst-Specialization-Capstone-Project/Exploratory-Data-Analysis.ipynb)
+   [Data Visualizations](IBM-Data-Analyst-Specialization-Capstone-Project/Data-Visualizations.ipynb)
+   [Dashboard](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/17175b19-0492-4a2b-b770-9a73bda92b79/view/5e7fdf7d17a231cc67e7e6e4079f2e017462715eb1bb870bd3d37b4959347397a96012c7c87e1e09dc170660a5ef465eca)
+
+Description: As part of the final capstone project of the course, I did an analysis on the M1 Survey Data, which collected information from people in the IT sector. The information varied from demographics, to knowledge of languages and salaries. The first step of the project was cleaning the data by removing duplicates, missing values, and normalizing data. The second step was to do Exploratory Data Analysis on the data, followed by making data visualizations of important variables. All these steps were done on Jupyter notebooks. The last step involved creating a dashboard using IBM Cognos Analytics. All links are provided above. 
+
+Skills: Python, Pandas, Seaborn, Matplotlib, NumPy, IBM Cloud, IBM Cognos Analytics, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards
+
+#### Data Visualization Project 
+
+[Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
+[Matplotlib, Seaborn and Folium Visualizations](IBM-Data-Analyst-Specialization-Data-Visualization-Project/MatPlotLib-Seaborn-Folium-Visualizations.ipynb)
+[Dashboard Code Using Plotly, Dash](IBM-Data-Analyst-Specialization-Data-Visualization-Project/Dashboard-Code.py)
+[Dashboard](https://aayushd97-8051.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
+
+Description: In this assignment I was tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods. This project involved analyzing the dataset through visualizations using MatPlotLib, Seaborn, and Folium. It is also involved creating a dashboard using Dash and Plotly - however, this part of the project was slightly more guided than the others. 
+
+Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
 
 ## CERTIFICATIONS
 
