@@ -21,11 +21,11 @@
 - [CONTACT INFORMATION](#contact-information)
 
 ## ABOUT
-Hello all, I'm Aayush and I am a recent graduate from Duke University with a Bachelors of Science in Economics, and a minor in Mathematics in the Class of 2023. I'm 27 years old, and have lived in Mumbai apart from my college years. I had to take a medical leave of absence for a few years due to some undiagnosed pain. I have always been interested in data and statistics, and the biggest reason for this is my relationship with football - it's not just a sport, it's a religion to me. Therefore, I had to delve deeper into the statistics and data if my team isn't doing well. 
+Hello all, I'm Aayush and I am a recent graduate from Duke University with a Bachelors of Science in Economics, and a minor in Mathematics in the Class of 2023. I'm 27 years old, and have lived in Mumbai apart from my college years. I had to take a medical leave of absence for a few years due to some undiagnosed pain. While the pain has been diagnosed as neurological chronic pain, the pain management has gotten a lot better with physiotherapy.  I have always been interested in data and statistics, and the biggest reason for this is my relationship with football - it's not just a sport, it's a religion to me. Therefore, I had to delve deeper into the statistics and data if my team isn't doing well. 
 
-Since graduating this year, I have been working on acquiring certifications and learning essential languages such as SQL and Python. The two certifications I have completed are the DataCamp Data Analyst Associate Certification, as well as the IBM Data Analyst Specialization Certificate. I am looking to create and build my portfolio now, while also being open to gaining some experience through work opporunities in the next year. 
+Since graduating in 2023, I have been working on acquiring certifications and learning essential languages such as SQL and Python, and exploring data visualization tools such as Tableau, Power BI, and Looker Studio. The two certifications I have completed are the DataCamp Data Analyst Associate Certification, as well as the IBM Data Analyst Specialization Certificate. I am also currently working in a Management Internship at Jamshri Realty Limited, which used to be a textile mill now converted into real estate space for retail and hospitality. 
 
-I am currently working in a Management Internship at Jamshri Realty Limited, which used to be a textile mill now converted into real estate space for retail and hospitality. 
+Welcome to my Portfolio. Please explore the variety of projects available, and any feedback is much appreciated. 
 
 ## PORTFOLIO PROJECTS 
 
