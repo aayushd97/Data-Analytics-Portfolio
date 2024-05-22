@@ -37,6 +37,11 @@ Description: This project was a beginner-level project in Power BI, and the goal
 
 Skills: Power BI, Power Query, Dashboard Creation 
 
+#### Manchester United Player Statistics Dashboard 
+[Dashboard](https://lookerstudio.google.com/reporting/93c79dc7-6ef1-4b94-9594-4c17428bc246)
+
+Description: This project is something I have been wanting to create for a long time - a dashboard where the user can select a season, select a player, and the corresponding statistics and graphs appear on the page. While this is an initial version of my project, I hope to keep improving upon this. This dashboard was made using Looker Studio, and the data was sourced manually from fbref.com. Since the data was entered manually, data cleaning was not required. 
+
 ### IBM Data Analyst Specialization Certificate Projects
 
 #### Capstone Project
