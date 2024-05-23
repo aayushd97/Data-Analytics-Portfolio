@@ -10,7 +10,9 @@
       (Skills: SQLServer, Subqueries, EDA)
     3. [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard)
       (Skills: Power BI, Power Query, Dashboard Creation)
-    4. [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
+    4. [Coffee Sales Excel Dashboard](#coffee-sales-excel-dashboard) 
+      (Skills: LOOKUP, INDEX, MATCH, Dashboard Creation) 
+    5. [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
       (Skills: Dashboard Creation, Looker Studio)
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
     1. [Capstone Project](#capstone-project)
@@ -57,6 +59,14 @@ Skills: SQLServer, Subqueries, EDA
 Description: This project was a beginner-level project in Power BI, and the goal of the product was to analyze the type off attrition from the HR Database Dataset. Power Query was used in order to clean of the dataset (removing null values, spelling errors, handling duplicates). The correlation of attrition with several other variables, such as age, distance from home, salary, years spent at company etc. was measured through Power BI tools. 
 
 Skills: Power BI, Power Query, Dashboard Creation 
+
+#### Coffee Sales Excel Dashboard
+[Dataset](https://github.com/aayushd97/Projects-Datasets/blob/main/coffeeOrdersData.xlsx)
+[Dashboard](Personal-Projects/Coffee-Sales-Dashboard.xlsx)
+
+Description: This project is used to showcase advanced Excel skills, including XLOOKUP and INDEX to complete certain columns with missing information. Then, I used PivotTables and PivorCharts in order to analyze the data, and create a dashboard with slicers and filters. 
+
+Skills: Excel, PivotTables, LOOKUP, INDEX, Dashboard Creation
 
 #### Manchester United Player Statistics Looker Studio Dashboard 
 [Dashboard](https://lookerstudio.google.com/reporting/93c79dc7-6ef1-4b94-9594-4c17428bc246)
