@@ -11,7 +11,7 @@
     3. [HR Analytics Power BI Dashboard](#hr-analytics-power-bi-dashboard)
       (Skills: Power BI, Power Query, Dashboard Creation)
     4. [Coffee Sales Excel Dashboard](#coffee-sales-excel-dashboard) 
-      (Skills: LOOKUP, INDEX, MATCH, Dashboard Creation) 
+      (Skills: Pivot Tables, LOOKUP, INDEX, MATCH, Dashboard Creation) 
     5. [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
       (Skills: Dashboard Creation, Looker Studio)
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
