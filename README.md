@@ -12,7 +12,7 @@
       (Skills: Power BI, Power Query, Dashboard Creation)
     4. [Coffee Sales Excel Dashboard](#coffee-sales-excel-dashboard) 
       (Skills: Pivot Tables, LOOKUP, INDEX, MATCH, Dashboard Creation) 
-    5. [Manchester United Player Statistics Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
+    5. [Manchester United Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
       (Skills: Dashboard Creation, Looker Studio)
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
     1. [Capstone Project](#capstone-project)
