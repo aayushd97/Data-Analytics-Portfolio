@@ -36,7 +36,7 @@ Welcome to my Portfolio. Please explore the variety of projects available, and a
 #### Electronics Store Sales Project 
 
 [Dataset](https://github.com/aayushd97/Pandas-Project/tree/master/SalesAnalysis/Sales_Data)
-[Data Cleaning & Analysis](Personal-Projects/Electronics-Sales-Analysis)
+[Data Cleaning & Analysis](Personal-Projects/Electronic-Sales-Analysis.pdf)
 
 Description: In this project I explored and concatenated 12 different monthly datasets for Electronics sales, in order to analyze the yearly consumer trends and gain consumer insights such as "What Hour of the Day is best to run an Advertisement?". This project involved analyzing the dataset through pandas - used for data cleaning and analysis - and matplotlib for the graphs. There are also some potential business insights based on findings through analysis in the notebook. 
 
