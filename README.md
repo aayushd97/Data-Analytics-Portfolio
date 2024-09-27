@@ -23,9 +23,9 @@
 - [CONTACT INFORMATION](#contact-information)
 
 ## ABOUT ME
-Hello all, I'm Aayush and I am a recent graduate from Duke University with a Bachelors of Science in Economics, and a minor in Mathematics in the Class of 2023. I'm 27 years old, and have lived in Mumbai apart from my college years. I had to take a medical leave of absence for a few years due to some undiagnosed pain. While the pain has been diagnosed as neurological chronic pain, the pain management has gotten a lot better with physiotherapy.  I have always been interested in data and statistics, and the biggest reason for this is my relationship with football - it's not just a sport, it's a religion to me. Therefore, I was always eager to learn about the most important indicators for success in sports, which eventually leads to analyzing and manipulating data. 
+Hello all, I'm Aayush and I am a graduate from Duke University with a Bachelors of Science in Economics, and a minor in Mathematics in the Class of 2023. 
 
-Since graduating in 2023, I have been working on acquiring certifications and learning essential languages such as SQL and Python, and exploring data visualization tools such as Tableau, Power BI, and Looker Studio. The two certifications I have completed are the DataCamp Data Analyst Associate Certification, as well as the IBM Data Analyst Specialization Certificate. I am also currently working in a Management Internship at Jamshri Realty Limited, which used to be a textile mill now converted into real estate space for retail and hospitality. 
+Since graduating in 2023, I have been working on acquiring certifications and learning essential languages such as SQL and Python, and exploring data visualization tools such as Tableau, Power BI, and Looker Studio. The two certifications I have completed are the DataCamp Data Analyst Associate Certification, as well as the IBM Data Analyst Specialization Certificate. I am also currently working as a Data Analyst at Core Integra since August 2024, before which I was working as a Business Analyst at Jamshri Realty Limited from December 2023 to July 2024.
 
 Welcome to my Portfolio. Please explore the variety of projects available, and any feedback is much appreciated. 
 
