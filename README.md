@@ -109,6 +109,19 @@ Description: The goal of this project is to leverage SQL skills to analyze Micro
 
 Skills: MySQL, Subqueries, EDA, Joins, Window Functions
 
+### WORK PROJECTS
+
+#### Core Integra Hiring Process Analytics
+[Presentation](Work-Projects/Core-Integra-Talent-Acquisiton-Analysis/HR-Team-Presentation.pdf)
+[Python Code](Work-Projects/Core-Integra-Talent-Acquisiton-Analysis/CI-Talent-Acquisition-Performance)
+[Python Code PDF](Work-Projects/Core-Integra-Talent-Acquisiton-Analysis/CI-Talent-Acquisition-Performance.pdf)
+[Dashboard](https://lookerstudio.google.com/reporting/f5a49fe8-88ed-4713-a930-f79031d58ffb)
+[Raw Dataset](Work-Projects/Core-Integra-Talent-Acquisiton-Analysis/TCS_MIS.xlsx)
+
+Description: This was a freelance project for a client (Core Integra) with the goal of analyzing their talent acquisition team and performance as they provide manpower services to other companies like TCS. The goal of this project was to investigate the different reasons Core Integra's talent acquisition team was not able to convert more candidates to the client. The analysis focused on the performance of Core Integra's talent acquisition team, as well as client-specific analysis. The analysis was done using Python code in order to clean the data, remove duplicates, create the necessary additional columns, and more. After doing the necessary analysis, multiple dashboards were made on Google Data Studio with different target audiences (client, Core Integra Talent Acquisition team etc). The last step of this project was to convey the insights through a presentation to the Talent Acquisition team. 
+
+Skills: Google Data Studio, Python Cleaning and EDA, Data Communication, Dashboarding 
+
 ### IBM Data Analyst Specialization Certificate Projects
 
 #### Capstone Project
