@@ -14,6 +14,11 @@
       (Skills: Pivot Tables, LOOKUP, INDEX, MATCH, Dashboard Creation) 
     5. [Manchester United Looker Studio Dashboard](#manchester-united-player-statistics-looker-studio-dashboard)
       (Skills: Dashboard Creation, Looker Studio)
+    6. [IMDB Movie Analysis](#imdb-movie-analysis)
+      (Skills: Excel Functions, Excel Charts, EDA)
+    7. [Instagram User Analytics](#instagram-user-analytics)
+      (Skills: MySQL, Joins, Subqueries)
+    8. [Operational-Analytics]
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
     1. [Capstone Project](#capstone-project)
       (Skills: Pandas, NumPy EDA, IBM Cloud, Dashboard Creation)
