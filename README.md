@@ -18,7 +18,11 @@
       (Skills: Excel Functions, Excel Charts, EDA)
     7. [Instagram User Analytics](#instagram-user-analytics)
       (Skills: MySQL, Joins, Subqueries)
-    8. [Operational-Analytics]
+    8. [Operational-Analytics-Project](#operational-analytics)
+      (Skills: MySQL, Subqueries, Window Functions, EDA)
+  - [WORK PROJECTS](#work-projects)
+    1. [Core Integra Hiring Process Analytics](#core-integra-hiring-process-analytics)
+       (Skills: Google Data Studio, Python Cleaning and EDA, Data Communication, Presentation)
   - [IBM Data Analyst Specialization Certificate Projects](#ibm-data-analyst-specialization-certificate-projects) 
     1. [Capstone Project](#capstone-project)
       (Skills: Pandas, NumPy EDA, IBM Cloud, Dashboard Creation)
@@ -79,6 +83,31 @@ Skills: Excel, PivotTables, LOOKUP, INDEX, Dashboard Creation
 Description: This project is something I have been wanting to create for a long time - a dashboard where the user can select a season, select a player, and the corresponding statistics and graphs appear on the page. While this is an initial version of my project, I hope to keep improving upon this and adding data from older seasons too. This dashboard was made using Looker Studio, and the data was sourced manually from fbref.com. Since the data was entered manually, data cleaning was not required. 
 
 Skills: Dashboard Creation, Looker Studio
+
+#### IMDB Movie Analysis
+[Presentation](Personal-Projects/IMDB-Movie-Analysis/Trainity-Assignment-5-IMDB-Movie-Analysis.pdf)
+
+Description: This project was used to identify what features contribute the most to an IMDB rating. The relationship between different factors such as the director, the budget, the length of the movie and the IMDB score were calculated to understand which factors influence IMDB score the most. This was done using Excel functions, pivot tables, and chart creation. 
+
+Skills: Excel Functions, EDA, Excel Charts
+
+#### Instagram User Analytics
+[Presentation](Personal-Projects/Instagram-User-Analytics/Trainity-Assignment-2-Instagram-User-Analytics.pdf)
+[SQL Code](Personal-Projects/Instagram-User-Analytics/Trainity-Assignment-2.sql)
+[Datasets](Personal-Projects/Instagram-User-Analytics/Datasets)
+
+Description: The goal of this project is to leverage SQL skills to analyze Instagram user data and provide valuable insights that can help the business grow. The analysis will focus on various aspects such as user engagement, potential bots, popular hashtags, and optimal times for marketing campaigns. The insights derived from this analysis will assist different teams within the organization, such as marketing, product, and development, in making informed decisions. MySQL was used in order to do the necessary analysis. 
+
+Skills: MySQL, Subqueries, EDA, Joins
+
+#### Operational Analytics
+[Presentation](Personal-Projects/Operational-Analytics/Trainity-Assignment-3-Operational-Analytics.pdf)
+[SQL Code](Personal-Projects/Operational-Analytics/Trainity-Assignment-3.sql)
+[Dataset](Personal-Projects/Operational-Analytics/Datasets)
+
+Description: The goal of this project is to leverage SQL skills to analyze Microsoft data from the point of view of a Lead Data Analyst. The analysis will focus on various aspects such as investigating metric spikes, such as a decrease in weekly user engagement, and operational analytics. The insights derived from this analysis will assist different teams within the organization, such as marketing, product, and operations, in making informed decisions. MySQL was used in order to do the necessary analysis.
+
+Skills: MySQL, Subqueries, EDA, Joins, Window Functions
 
 ### IBM Data Analyst Specialization Certificate Projects
 
