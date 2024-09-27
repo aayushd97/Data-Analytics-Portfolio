@@ -154,9 +154,8 @@ Skills: Data Visualization, Seaborn, Matplotlib, Folium, Dash
 [DataCamp Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018584749187)
 
 ## CONTACT INFORMATION
-email: aayushd97@gmail.com
 
-alt. email: aayush.damani@duke.edu
+email: aayushd97@gmail.com
 
 Linkedin: https://www.linkedin.com/in/aayush-damani/
 
